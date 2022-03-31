@@ -31,7 +31,8 @@ modified: '2022-03-07T10:53:07.301Z'
 21. Chuunibyou demo Koi ga Shitai!
 22. Asobi Asobase ✔
 23. Chio Chan's School Road
-24. Saiki K 
+24. Saiki K FULL ✔
+25. The Tatami Galaxy 
 
 # Movie list to watch
 
@@ -55,7 +56,7 @@ modified: '2022-03-07T10:53:07.301Z'
 18. Ride your Wave
 19. Flavors of Youth
 20. Hello World
-
+21. Tenki no Ko ✔
 
 
 Directors to follow:
