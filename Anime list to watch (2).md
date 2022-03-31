@@ -33,6 +33,7 @@ modified: '2022-03-07T10:53:07.301Z'
 23. Chio Chan's School Road
 24. Saiki K FULL ✔
 25. The Tatami Galaxy 
+26. Grand Blue
 
 # Movie list to watch
 
