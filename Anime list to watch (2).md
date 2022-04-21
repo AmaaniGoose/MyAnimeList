@@ -34,8 +34,8 @@ modified: '2022-03-07T10:53:07.301Z'
 24. Saiki K FULL ✔
 25. The Tatami Galaxy 
 26. Grand Blue
-27. Kaguya-sama season 3 ✔
-28. Komi san season 3 ✔
+27. Kaguya-sama season 3 
+28. Komi san season 3 
 
 # Movie list to watch
 
