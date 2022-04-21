@@ -18,7 +18,7 @@ modified: '2022-03-07T10:53:07.301Z'
 7. Kaguya sama ✔
 8. Given (BL) 🐇
 9. Made in Abyss
-10. Promised Neverland ✔ 🐇 
+10. Promised Neverland ✔ 🐇
 12. Ijirainaide Nagatoro san
 13. Classroom of the Elite ✔
 14. Kakeguri
@@ -32,10 +32,11 @@ modified: '2022-03-07T10:53:07.301Z'
 22. Asobi Asobase ✔
 23. Chio Chan's School Road
 24. Saiki K FULL ✔
-25. The Tatami Galaxy 
+25. The Tatami Galaxy
 26. Grand Blue
-27. Kaguya-sama season 3 
-28. Komi san season 3 
+27. Kaguya-sama season 3
+28. Komi san season 3
+29. Spy X Family
 
 # Movie list to watch
 
@@ -71,5 +72,3 @@ Hayao Miyazaki
 
 1. Misaeng
 2. Sky castle
-
-
