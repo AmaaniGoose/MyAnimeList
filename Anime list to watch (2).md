@@ -37,6 +37,7 @@ modified: '2022-03-07T10:53:07.301Z'
 27. Kaguya-sama season 3
 28. Komi san season 3
 29. Spy X Family
+30. Shikimori san
 
 # Movie list to watch
 
